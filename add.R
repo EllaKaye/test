@@ -1,3 +1,3 @@
-add <- function(a, b) {
-  a + b
+add <- function(a, b, c) {
+  a + b + c
 }
